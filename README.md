@@ -38,6 +38,7 @@ Policy Makers:
 
 By highlighting trends in cases, hospitalizations, and vaccination efforts, the project can guide policymakers in making informed decisions during future waves of pandemics.
 Healthcare Professionals: The analysis on ICU and hospital admissions helps understand healthcare system capacities during peak times.
+
 Researchers:
 
 The project provides a foundation for more in-depth predictive modeling and research on COVID-19 and its impact on different regions.
